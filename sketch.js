@@ -3,10 +3,10 @@ var balloon,balloonImg,balloonImgright,balloonImgleft;
 var position,database;
 
 function preload(){
-  balloonImg = loadImage("picture/Hot Air Ballon-02.png");
-  backgroundImg = loadImage("picture/Hot Air Ballon-01.png");
-  balloonImgleft = loadImage("picture/Hot Air Ballon-03.png");
-  balloonImgright = loadImage("picture/Hot Air Ballon-04.png");
+  balloonImg = loadImage("Hot Air Ballon-02.png");
+  backgroundImg = loadImage("Hot Air Ballon-01.png");
+  balloonImgleft = loadImage("Hot Air Ballon-03.png");
+  balloonImgright = loadImage("Hot Air Ballon-04.png");
 }
 
 function setup() {
